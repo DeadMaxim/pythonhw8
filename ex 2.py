@@ -13,4 +13,4 @@ class DivisionByNull:
 
 print(DivisionByNull.divide_by_null(55, 20))
 print(DivisionByNull.divide_by_null(11, 0))
-print(DivisionByNull.divide_by_null(45, 0))
+print(DivisionByNull.divide_by_null(31, 0))
